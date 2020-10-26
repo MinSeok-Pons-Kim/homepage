@@ -61,4 +61,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a third-year Ph.D candidate in Graduate School of Knowledge Service Engineering at KAIST. Currently, my advisor is Prof. Jae-Gil Lee, and I am a representative student in Data Mining Lab.
+I am a third-year Ph.D candidate in Graduate School of Knowledge Service Engineering at KAIST. Currently, my advisor is Prof. Jae-Gil Lee, and I am a Ph.D representative student in my graduate school.
