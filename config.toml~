@@ -1,0 +1,11 @@
+# Wowchemy Website Builder
+# https://wowchemy.com
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
+baseURL = "https://minseokkim.net/"
+languageCode = "en-us"
+title = "Minseok Kim's Homepage"
+theme = "academic"
