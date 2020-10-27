@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea"
-authors: [Minseok Kim, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min, Youngeun Nam, Dongmin Park, Jae-Gil Lee]
+authors: ["Minseok Kim", "Junhyeok Kang", "Doyoung Kim", "Hwanjun Song", "Hyangsuk Min", "Youngeun Nam", "Dongmin Park", "Jae-Gil Lee"]
 date: 2020-10-27T14:42:20+09:00
 doi: "https://doi.org/10.1145/3394486.3412864"
 
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
