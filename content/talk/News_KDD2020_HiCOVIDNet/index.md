@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "News_KDD2020_HiCOVIDNet"
+title: "Public Attention for Hi-COVIDNet (KDD 2020)"
 event:
 event_url:
 location:
@@ -11,19 +11,18 @@ address:
   region:
   postcode:
   country:
-summary: Our recent KDD paper on the prediction of inbound COVID-19 confirmed cases received considerable media coverage in KBS, YTN, MBC, and TJB as well as in many daily newspapers.  
+summary: Our KDD paper on the prediction of inbound COVID-19 confirmed cases received considerable attention from Government (Ministry of Science and ICT) and media coverage in KBS, YTN, MBC, and TJB as well as in many daily newspapers (over 40+).  
 abstract:
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-27T15:48:45+09:00
-date_end: 2020-10-27T15:48:45+09:00
-all_day: false
+date: 2020-08-20
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-27T15:48:45+09:00
+publishDate: 2020-08-20
 
 authors: []
 tags: []
