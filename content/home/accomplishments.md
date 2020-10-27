@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "KAIST"
+  organization_url = "https://www.kaist.ac.kr"
+  title = "Analytical Methodologies for Big Data"
+  date_start = "2020-09-01"
+  date_end = "2020-12-31"
+  description = "KSE526 2020 Fall lecture TA"
+
+
+[[item]]
   organization = "KAIST IT Academy"
   organization_url = "https://ita.kaist.ac.kr"
   title = "Deep Learning"
@@ -92,7 +101,7 @@ date_format = "Jan 2006"
   title = "Data Mining and Knowledge Discovery"
   date_start = "2019-03-01"
   date_end = "2019-06-30"
-  description = "KSE525 lecture TA"
+  description = "KSE525 2019 Spring lecture TA"
   
 
 [[item]]
@@ -101,7 +110,7 @@ date_format = "Jan 2006"
   title = "Analytical Methodologies for Big Data"
   date_start = "2018-09-01"
   date_end = "2018-12-31"
-  description = "KSE526 lecture TA"
+  description = "KSE526 2018 Fall lecture TA"
   
 [[item]]
   organization = "Korea Bank Financial Group"
