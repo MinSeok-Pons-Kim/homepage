@@ -10,7 +10,7 @@ authors:
 - Dongmin Park
 - Jae-Gil Lee
 date: "2020-07-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1145/3394486.3412864"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-07-15T00:00:00Z"
@@ -30,8 +30,8 @@ abstract: The escalating crisis of COVID-19 has put people all over the world in
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3394486.3412864
+url_code: https://github.com/kaist-dmlab/Hi-COVIDNet 
 url_dataset: ''
 url_poster: ''
 url_project: ''

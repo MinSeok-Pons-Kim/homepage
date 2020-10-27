@@ -18,8 +18,8 @@ publishDate: "2020-07-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *Arxiv 2020*
-publication_short: In *Arxiv*
+publication: "Arxiv 2020"
+publication_short: "Arxiv"
 
 abstract: Deep learning has achieved remarkable success in numerous domains with help from large amounts of big data. However, the quality of data labels is a concern because of the lack of high-quality labels in many real-world scenarios. As noisy labels severely degrade the generalization performance of deep neural networks, learning from noisy labels (robust training) is becoming an important task in modern deep learning applications. In this survey, we first describe the problem of learning with label noise from a supervised learning perspective. Next, we provide a comprehensive review of 46 state-of-the-art robust training methods, all of which are categorized into seven groups according to their methodological difference, followed by a systematic comparison of six properties used to evaluate their superiority. Subsequently, we summarize the typically used evaluation methodology, including public noisy datasets and evaluation metrics. Finally, we present several promising research directions that can serve as a guideline for future studies.
 
