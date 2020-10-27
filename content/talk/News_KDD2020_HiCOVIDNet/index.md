@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Our KDD paper on the prediction of inbound COVID-19 confirmed cases received considerable attention from Government (Ministry of Science and ICT) and media coverage in KBS, YTN, MBC, and TJB as well as in many daily newspapers (over 40+).  
+summary: Our KDD paper on the prediction of inbound COVID-19 confirmed cases received considerable attention from Government (Ministry of Science and ICT) and media coverage in KBS, YTN, MBC, and TJB as well as in over 40 daily newspapers .  
 abstract:
 
 
@@ -67,11 +67,17 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The followings are the selected links out of all reported news:
 
 [KBS]("http://news.kbs.co.kr/news/view.do?ncd=4520879&ref=A>)
+
 [YTN]("https://www.ytn.co.kr/_ln/0115_202008192128242677>)
+
 [YTN Science]("https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&s_hcd=&key=202008191610021403">)
+
 [MBC]("https://youtu.be/KP1o3qYQ6B">)
+
 [TJB]("http://www.tjb.co.kr/sub0301/bodo/view/id/44645/version/1>")
+
 [Ministry of Science and ICT]("https://youtu.be/KP1o3qYQ6B">)
 
