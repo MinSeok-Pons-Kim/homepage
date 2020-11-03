@@ -69,4 +69,4 @@ projects: []
 ---
 The following is the link for the reported news:
 
-[aitimes]("https://www.aitimes.kr/news/articleView.html?idxno=18092")
+[aitimes](https://www.aitimes.kr/news/articleView.html?idxno=18092)
