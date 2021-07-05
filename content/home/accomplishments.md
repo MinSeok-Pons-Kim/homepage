@@ -22,6 +22,15 @@ date_format = "Jan 2006"
 [[item]]
   organization = "KAIST IT Academy"
   organization_url = "https://ita.kaist.ac.kr"
+  title = "Deep Learning"
+  date_start = "2021-07-05"
+  date_end = "2021-08-13"
+  description = "Lecturer [Source materials][https://drive.google.com/drive/folders/14jjs74XX17uGClOuApw7xsOeu1f-hSpE?usp=sharing]"
+
+
+[[item]]
+  organization = "KAIST IT Academy"
+  organization_url = "https://ita.kaist.ac.kr"
   title = "AI Lecture Materials Development"
   date_start = "2020-10-01"
   date_end = "2020-12-31"
