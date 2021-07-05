@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "KAIST IT Academy"
-  organization_url = "https://ita.kaist.ac.kr"
+  organization_url = "https://drive.google.com/drive/folders/14jjs74XX17uGClOuApw7xsOeu1f-hSpE?usp=sharing"
   title = "Deep Learning"
   date_start = "2021-07-05"
   date_end = "2021-08-13"
-  description = "Lecturer Source materials]([https://drive.google.com/drive/folders/14jjs74XX17uGClOuApw7xsOeu1f-hSpE?usp=sharing])
+  description = "Lecturer"
 
 
 [[item]]
