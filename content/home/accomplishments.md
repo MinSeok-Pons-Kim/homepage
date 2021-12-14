@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Seocho-gu office, Korea"
+  organization_url = "https://seocho.go.kr/site/fe/main.do"
+  title = "Special AI Academy Program AI-based Project Mentor"
+  date_start = "2021-08-01"
+  date_end = "2021-09-30"
+  description = "Project Mentor"
+
 [[item]]
   organization = "KAIST IT Academy"
   organization_url = "https://ita.kaist.ac.kr"
