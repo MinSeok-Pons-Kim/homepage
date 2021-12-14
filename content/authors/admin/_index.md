@@ -14,7 +14,7 @@ organizations:
   url: "https://www.kaist.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is to make AI understand and serve people better!
 
 interests:
 - Recommendation System
@@ -61,4 +61,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a third-year Ph.D candidate in Graduate School of Knowledge Service Engineering at KAIST. Currently, my advisor is Prof. Jae-Gil Lee, and I am a Ph.D representative student in my graduate school.
+I am a fourth-year Ph.D candidate in Graduate School of Knowledge Service Engineering at KAIST. I am studying in [Data Mining Lab](https://dm.kaist.ac.kr) with [Prof. Jae-Gil Lee](https://scholar.google.com/citations?hl=ko&user=h9mbv9MAAAAJ) as my advisor. Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
+
+I also had a chance to work as an applied scientist intern in Amazon Alexa AI (Sep. 2021 ~ Dec. 2021) with my manager [Dr. Sungjin Lee](https://scholar.google.com/citations?hl=ko&user=QRUsx4QAAAAJ), my mentors [Dr. Jinoh Oh](https://scholar.google.com/citations?user=s7ZnGN8AAAAJ) and [Dr. Jae Do](https://dl.acm.org/profile/81436600021), and my collaborators [Dr. Tara Taghavi](https://dl.acm.org/profile/81100367424h) and [Dr. Amin Fazel](https://scholar.google.com/citations?user=GClAPy0AAAAJ&hl=ko&oi=ao).
+
+I am open to work as full-time employment after my graduation (Spring 2022), feel free to contact me via email!

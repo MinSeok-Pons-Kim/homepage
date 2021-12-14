@@ -20,8 +20,26 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Seocho-gu office, Korea"
+  organization_url = "https://seocho.go.kr/site/fe/main.do"
+  title = "Special AI Academy Program AI-based Project Mentor"
+  date_start = "2021-08-01"
+  date_end = "2021-09-31"
+  description = "Project Mentor"
+
+
+[[item]]
+  organization = "Seocho-gu office, Korea"
+  organization_url = "https://seocho.go.kr/site/fe/main.do"
+  title = "Special AI Academy Program Lecturer"
+  date_start = "2019-06-01"
+  date_end = "2021-08-31"
+  description = "Lecturer"
+
+
+[[item]]
   organization = "KAIST IT Academy"
-  organization_url = "https://drive.google.com/drive/folders/14jjs74XX17uGClOuApw7xsOeu1f-hSpE?usp=sharing"
+  organization_url = "https://ita.kaist.ac.kr"
   title = "Deep Learning"
   date_start = "2021-07-05"
   date_end = "2021-08-13"
