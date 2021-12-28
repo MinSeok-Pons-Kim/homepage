@@ -27,7 +27,7 @@ abstract: Point-of-interest (POI) recommendation has become an important researc
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/16539'
 url_code: ''
 url_dataset: ''
 url_poster: ''
