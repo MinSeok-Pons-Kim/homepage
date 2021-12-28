@@ -29,7 +29,7 @@ abstract: Online recommender systems should be always aligned with users' curren
 # links:
 # - name: ""
 #   url: ""
-url_pdf = ''
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
