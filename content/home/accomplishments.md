@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "KAIST IT Academy"
+  organization_url = "https://drive.google.com/drive/folders/1Av96UvKAAAUNWgfwKntmZzHY5lEsHEDZ?usp=sharing"
+  title = "Deep Learning"
+  date_start = "2022-07-18"
+  date_end = "2022-07-29"
+  description = "Lecturer"
+
+[[item]]
+  organization = "Seocho-gu office, Korea"
+  organization_url = "https://seocho.go.kr/site/fe/main.do"
+  title = "Special AI Academy Program AI-based Project Mentor"
+  date_start = "2022-07-23"
+  date_end = "2022-09-10"
+  description = "Project Mentor"
+
 
 [[item]]
   organization = "Seocho-gu office, Korea"
