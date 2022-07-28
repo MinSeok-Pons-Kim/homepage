@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "KAIST Dept. of Mathematical Sciences"
-  organization_url = "https://drive.google.com/drive/u/1/folders/1sra5xhtIdgitUCzqFzyKOw1FqU7AGfoB"
+  organization_url = "https://drive.google.com/drive/folders/1lVjnLsyr6HxUqW7QCpR8yivJ--8EQmOU?usp=sharing"
   title = "AI Computer Vision"
   date_start = "2022-07-28"
   date_end = "2022-07-29"
