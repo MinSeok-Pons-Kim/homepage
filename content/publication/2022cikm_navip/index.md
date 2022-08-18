@@ -18,10 +18,10 @@ publishDate: "2022-10-17T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Information and Knowledge Management*
-publication_short: in *CIKM*
+publication: In *The Conference on Information and Knowledge Management*
+publication_short: In *CIKM*
 
-abstract: Graph neural networks (GNNs) have achieved remarkable success in recommender systems by representing users and items based on their historical interactions. However, little attention was paid to GNN's vulnerability to exposure bias: users are exposed to a limited number of items so that a system only learns a biased view of user preference to result in suboptimal recommendation quality. Although inverse propensity weighting is known to recognize and alleviate exposure bias, it usually works on the final objective with the model outputs, whereas GNN can also be biased during neighbor aggregation. In this paper, we propose a simple but effective approach, neighbor aggregation via inverse propensity (Navip) for GNNs. Specifically, given a user-item bipartite graph, we first derive propensity score of each user-item interaction in the graph. Then, inverse of the propensity score with Laplacian normalization is applied to debias neighbor aggregation from exposure bias. We validate the effectiveness of our approach through our extensive experiments on two public and Amazon Alexa datasets where the performance enhances up to 14.2%.
+abstract: The performance of deep neural networks is significantly affected by how well mini-batches are constructed. In this paper, we propose a novel adaptive batch selection algorithm called Recency Bias that exploits the uncertain samples predicted inconsistently in recent iterations. The historical label predictions of each sample are used to evaluate its predictive uncertainty within a sliding window. By taking advantage of this design, Recency Bias not only accelerates the training step but also achieves a more accurate network. We demonstrate the superiority of Recency Bias by extensive evaluation on two independent tasks. Compared with existing batch selection methods, the results showed that Recency Bias reduced the test error by up to 20.5% in a fixed wall-clock training time. At the same time, it improved the training time by up to 59.3% to reach the same test error
 
 # links:
 # - name: ""
