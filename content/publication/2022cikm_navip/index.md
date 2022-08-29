@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: In *International Conference on Information and Knowledge Management*
 publication_short: in *CIKM*
 
-abstract: Graph neural networks (GNNs) have achieved remarkable success in recommender systems by representing users and items based on their historical interactions. However, little attention was paid to GNN's vulnerability to exposure bias: users are exposed to a limited number of items so that a system only learns a biased view of user preference to result in suboptimal recommendation quality.
+abstract: Graph neural networks (GNNs) have achieved remarkable success in recommender systems by representing users and items based on their historical interactions. However, little attention was paid to GNN's vulnerability 
 # links:
 # - name: ""
 #   url: ""
