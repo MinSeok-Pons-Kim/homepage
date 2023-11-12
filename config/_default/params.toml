@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "minseokkim@kaist.ac.kr"
+email = "minseokkim0630@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "291 Daehak-ro", city = "Yuseong-gu", region = "Daejeon", postcode = "34141", country = "Republic of Korea", country_code = "KR"}
+address = {street = "10450 NE 10th St", city = "Bellevue", region = "Washington", postcode = "98004", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.367115", longitude = "127.364510"}
+coordinates = {latitude = "47.61947884615983", longitude = "-122.20029929661311"}
 
 # Directions for visitors to locate you.
-directions = "Building E2-1 Room No. 4206"
+directions = "(SEA107) Tahoe"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

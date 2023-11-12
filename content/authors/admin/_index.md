@@ -6,19 +6,19 @@ title: Minseok Kim
 superuser: true
 
 # Role/position
-role: Applied Scientist at Amazon Alexa AI
+role: Applied Scientist II at Amazon Alexa AI
 # Organizations/Affiliations
 organizations:
-- name: KAIST
-  url: "https://www.kaist.ac.kr/"
+- name: Amazon Alexa AI
+  url: "https://alexa.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to make AI understand and serve people better!
 
 interests:
+- Large Language Model based Conversational AI
 - Recommendation System
 - Information Retrieval
-- Mobility Data
 - Trustworthy ML
 - Real-World ML/AI Challenges
 
@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:minseokkim@kaist.ac.kr'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:minseokkim0630@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=4-fGRR8AAAAJ
@@ -43,12 +43,12 @@ social:
   link: https://github.com/Minseok-Pons-Kim
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "minseokkim@kaist.ac.kr"
+email: "minseokkim0630@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -61,6 +61,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an applied scientist at Amazon Alexa AI. I received my Ph.D in Graduate School of Data Science at KAIST under the supervision of [Prof. Jae-Gil Lee](https://scholar.google.com/citations?hl=ko&user=h9mbv9MAAAAJ). Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
+I am an applied scientist II at Amazon Alexa AI. I work on overcoming imbalanced and scarce real-world data for large language model based conversational AI.
+Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
+# I received my Ph.D in Graduate School of Data Science at KAIST under the supervision of [Prof. Jae-Gil Lee](https://scholar.google.com/citations?hl=ko&user=h9mbv9MAAAAJ). Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
 
 
