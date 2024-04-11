@@ -1,0 +1,6 @@
+@inproceedings{kim2022Debiasing,
+  title={Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems},
+  author={Kim, Minseok and Oh, Jinoh and Do, Jaeyoung and Lee, Sungjin},
+  booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  year={2022}
+}
