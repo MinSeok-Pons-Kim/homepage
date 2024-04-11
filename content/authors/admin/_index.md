@@ -6,10 +6,10 @@ title: Minseok Kim
 superuser: true
 
 # Role/position
-role: Applied Scientist II at Amazon Alexa AI
+role: Applied Scientist II at Amazon AGI
 # Organizations/Affiliations
 organizations:
-- name: Amazon Alexa AI
+- name: Amazon AGI
   url: "https://alexa.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,7 +62,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an applied scientist II at Amazon Alexa AI. I work on overcoming imbalanced and scarce real-world data for large language model based conversational AI.
+I am an applied scientist II at Amazon AGI. I work on overcoming imbalanced and scarce real-world data for large language model based conversational AI.
 Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
 
 
