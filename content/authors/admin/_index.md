@@ -6,11 +6,11 @@ title: Minseok Kim
 superuser: true
 
 # Role/position
-role: Applied Scientist II at Amazon AGI
+role: Senior Research Scientist at Meta
 # Organizations/Affiliations
 organizations:
-- name: Amazon AGI
-  url: "https://alexa.amazon.com/"
+- name: Meta
+  url: "https://www.meta.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to make AI understand and serve people better!
@@ -58,11 +58,13 @@ highlight_name: true
 
 #I also had a chance to work as an applied scientist intern in Amazon Alexa AI (Sep. 2021 ~ Dec. 2021) with my manager [Dr. Sungjin Lee](https://scholar.google.com/citations?hl=ko&user=QRUsx4QAAAAJ), my mentors [Dr. Jinoh Oh](https://scholar.google.com/citations?user=s7ZnGN8AAAAJ) and [Dr. Jae Do](https://dl.acm.org/profile/81436600021), and my collaborators [Dr. Tara Taghavi](https://dl.acm.org/profile/81100367424h) and [Dr. Amin Fazel](https://scholar.google.com/citations?user=GClAPy0AAAAJ&hl=ko&oi=ao).
 # I received my Ph.D in Graduate School of Data Science at KAIST under the supervision of [Prof. Jae-Gil Lee](https://scholar.google.com/citations?hl=ko&user=h9mbv9MAAAAJ). Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
+
+
+# ~ 2024. 11.
+# I am an applied scientist II at Amazon AGI. I work on overcoming imbalanced and scarce real-world data for large language model based conversational AI.
+# Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
 user_groups:
 - Researchers
 - Visitors
 ---
-I am an applied scientist II at Amazon AGI. I work on overcoming imbalanced and scarce real-world data for large language model based conversational AI.
-Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems. Specifically, I am interested in advancing AI to better serve people, such as in recommender systems or AI assistants that became more than essential in everyday life.
-
-
+I am a senior research scientist at Meta, working on enhancing LLM-based assistant service quality. Before Meta, I was at Amazon AGI as an Applied Scientist II to advance the next-generation Alexa powered by LLM. My expertise spans extensive experience in designing, training, and evaluating LLM models, complemented by a proven track record in developing sophisticated pipelines aimed at continually enhancing performance.
